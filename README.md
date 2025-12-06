@@ -11,3 +11,4 @@ Instead of using a full keyboard, this device offers a minimalist, ergonomic too
 
 You'll need just the custom PCB, which you can find all the schematics and component in the KiCad files and a cable to connect it to the PC obviously.
 
+Every advice to get this better is apreciated. 
